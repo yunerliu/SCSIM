@@ -10,4 +10,4 @@
 
 ## How to use
 
-1. please refer to example.py
+1. please refer to https://github.com/yunerliu/SCSIM/blob/master/example.py
