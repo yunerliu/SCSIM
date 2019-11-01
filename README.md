@@ -6,7 +6,7 @@
 ## How to install
 
 1. download and uncompress the package
-2. ``python install setup.py``
+2. ``python setup.py install``
 
 ## How to use
 
