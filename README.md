@@ -1,13 +1,13 @@
 
 # SCSIM （Single-cell data simulator） 
 
-1.Free software: MIT license
+1. Free software: MIT license
 
 ## How to install
 
-1.download and uncompress the package
-1.``python install setup.py``
+1. download and uncompress the package
+2. ``python install setup.py``
 
 ## How to use
 
-1.please refer to example.py
+1. please refer to example.py
