@@ -9,8 +9,6 @@ setuptools.setup(
     author="Yunchen Liu, Hongming Pu, Yibo Yang",
     author_email="liuyunchen@pku.edu.cn",
     description="VAE based single-cell data simulator",
-    long_description=long_description,
-    long_description_content_type="text/markdown",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
